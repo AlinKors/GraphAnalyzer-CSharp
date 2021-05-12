@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kadar\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kadar\\.nuget\\packages"
+    ]
+  }
+}

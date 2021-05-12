@@ -1,0 +1,17 @@
+D:\Diplom\GraphAnalyzer\GraphAnalyzer\obj\Debug\netcoreapp3.1\GraphAnalyzer.csprojAssemblyReference.cache
+D:\Diplom\GraphAnalyzer\GraphAnalyzer\obj\Debug\netcoreapp3.1\GraphAnalyzer.Menu.resources
+D:\Diplom\GraphAnalyzer\GraphAnalyzer\obj\Debug\netcoreapp3.1\GraphAnalyzer.csproj.GenerateResource.cache
+D:\Diplom\GraphAnalyzer\GraphAnalyzer\obj\Debug\netcoreapp3.1\GraphAnalyzer.AssemblyInfoInputs.cache
+D:\Diplom\GraphAnalyzer\GraphAnalyzer\obj\Debug\netcoreapp3.1\GraphAnalyzer.AssemblyInfo.cs
+D:\Diplom\GraphAnalyzer\GraphAnalyzer\obj\Debug\netcoreapp3.1\GraphAnalyzer.csproj.CoreCompileInputs.cache
+D:\Diplom\GraphAnalyzer\GraphAnalyzer\bin\Debug\netcoreapp3.1\GraphAnalyzer.exe
+D:\Diplom\GraphAnalyzer\GraphAnalyzer\bin\Debug\netcoreapp3.1\GraphAnalyzer.deps.json
+D:\Diplom\GraphAnalyzer\GraphAnalyzer\bin\Debug\netcoreapp3.1\GraphAnalyzer.runtimeconfig.json
+D:\Diplom\GraphAnalyzer\GraphAnalyzer\bin\Debug\netcoreapp3.1\GraphAnalyzer.runtimeconfig.dev.json
+D:\Diplom\GraphAnalyzer\GraphAnalyzer\bin\Debug\netcoreapp3.1\GraphAnalyzer.dll
+D:\Diplom\GraphAnalyzer\GraphAnalyzer\bin\Debug\netcoreapp3.1\GraphAnalyzer.pdb
+D:\Diplom\GraphAnalyzer\GraphAnalyzer\bin\Debug\netcoreapp3.1\MaterialSkin.dll
+D:\Diplom\GraphAnalyzer\GraphAnalyzer\obj\Debug\netcoreapp3.1\GraphAnalyzer.csproj.CopyComplete
+D:\Diplom\GraphAnalyzer\GraphAnalyzer\obj\Debug\netcoreapp3.1\GraphAnalyzer.dll
+D:\Diplom\GraphAnalyzer\GraphAnalyzer\obj\Debug\netcoreapp3.1\GraphAnalyzer.pdb
+D:\Diplom\GraphAnalyzer\GraphAnalyzer\obj\Debug\netcoreapp3.1\GraphAnalyzer.genruntimeconfig.cache
